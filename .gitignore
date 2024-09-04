@@ -1,3 +1,6 @@
 *.pptx*
 *.pdf*
 /SLIDES/
+/TEMPLATE/
+**/drive*/
+/.tmp.driveupload/
